@@ -1,6 +1,6 @@
 import random
 from copy import deepcopy
-from field import TetrisField
+from Game.field import TetrisField
 
 
 class Shape:
