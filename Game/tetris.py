@@ -1,6 +1,6 @@
 from copy import deepcopy
-from shape import Shape
-from field import TetrisField
+from Game.shape import Shape
+from Game.field import TetrisField
 
 
 class TetrisGameLogic:
